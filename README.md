@@ -1,4 +1,4 @@
-# gg
+# EggPlant
 
 > A Vue.js project
 
