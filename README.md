@@ -1,6 +1,7 @@
 # EggPlant
 
-> A Vue.js project
+>项目应用了美团的小程序框架mpvue开发的小程序，请小迪同学移步到mpvue官网查看文档
+>一个防美团小程序的项目
 
 ## Build Setup
 
@@ -19,3 +20,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 项目中应用了iview小程序UI框架
